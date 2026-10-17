@@ -9,7 +9,7 @@ _ONSETO: 53/53  files,  76/76  kB DONE
 
 _PURSKAL:   38/38  files,  29/29  kB DONE
 
-_RIATAVIN:  150/167 files,  140/167 kB
+_RIATAV:  167/167 files,  167/167 kB DONE
 
 _ROBILRD:   8/8   files,   13/13  kB DONE
 
@@ -19,4 +19,4 @@ Translation: 2/3   files, 417/445 kB
 
 ====================================
 
-TDDz PL:   299/317 files, 727/782 kB
+TDDz PL:   316/317 files, 754/782 kB
