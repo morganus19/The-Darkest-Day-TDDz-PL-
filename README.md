@@ -11,7 +11,7 @@ _PURSKAL:   38/38  files,  29/29  kB DONE
 
 _RIAT:  167/167 files,  167/167 kB DONE
 
-_ROBILRD:   8/8   files,   13/13  kB DONE
+_ROBILARD:   8/8   files,   13/13  kB DONE
 
 _TROLLFR:  17/17  files,  26/26  kB DONE
 
