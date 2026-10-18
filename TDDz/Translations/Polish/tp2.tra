@@ -210,9 +210,9 @@ Avaunis w³aœnie otrzyma³ tytu³ rycerza, maj¹c nadziejê, ¿e dokona czynów przynos
 @20198  = ~Orklin~
 @20199  = ~Szlachetny ifryt~
 @20200  = ~Ifryt~
-@20201  = ~Szlachetny d¿in~
+@20201  = ~Szlachetny d¿inn~
 @20202  = ~Mnich~
-@20203  = ~Giblan~
+@20203  = ~Giblana~
 @20204  = ~Uliczny ¿ebrak~
 @20205  = ~Arabski opryszek~
 @20206  = ~Stra¿nik sklepu~
@@ -369,9 +369,9 @@ Avaunis w³aœnie otrzyma³ tytu³ rycerza, maj¹c nadziejê, ¿e dokona czynów przynos
 @20357  = ~Tarczowe widmo~
 @20358  = ~Phlydia~
 @20359  = ~Pibble~
-@20360  = ~Nethlanderski pirat~
-@20361  = ~Raurivyl Zdotarcza~
-@20362  = ~Bahija S³uszny~
+@20360  = ~Nelantherski pirat~
+@20361  = ~Raurivyl Zdobna Tarcza~
+@20362  = ~Bahija Sprawiedliwy~
 @20363  = ~Agal~
 @20364  = ~Ptak~
 @20365  = ~Nielias~
@@ -467,7 +467,7 @@ Sielanka skoñczy³a siê, gdy „Duszek Morski” zosta³ dotkliwie uszkodzony przez za
 @20451  = ~Sorovin~
 @20452  = ~Skalny s³uga~
 @20453  = ~Tanar'ri~
-@20454  = ~Tartarus~
+@20454  = ~Carceri~
 @20455  = ~Tethtoril~
 @20456  = ~Thorknar~
 @20457  = ~Duralerant~
@@ -494,7 +494,7 @@ Kiedy pytasz j¹ o wiêcej informacji odwraca siê, jak gdyby ciê nie s³ysza³a.~
 @20470  = ~Witaj¹cy~
 @20471  = ~Erynia~
 @20472  = ~Wielki mag~
-@20473  = ~Ladacznica~
+@20473  = ~Ladacznik~
 @20474  = ~Œnie¿ny wilk~
 @20475  = ~Cz³onek za³ogi~
 @20476  = ~Yochlol~
@@ -722,7 +722,7 @@ Czas dzia³ania: sta³y
 Czas rzucania: 3
 Obszar dzia³ania: rzucaj¹cy czar
 
-Czar przywo³uje potê¿nego geniusza, który utrzymuje bezpoœredni kontakt z bóstwami. Dokona on na rzecz rzucaj¹cego czynu, który oka¿e siê brzemienny w skutki dla „s³abych ras” zamieszkuj¹cych te krainy. D¿in zapyta, kogo ma wyeliminowaæ, a rzucaj¹cy wska¿e mu dowoln¹ istotê nale¿¹c¹ do którejœ ze s³abych ras obecn¹ w zasiêgu wzroku. Po szybkim rzuceniu czaru czyn siê dokona, a ca³a rasa zginie nag³¹ œmierci¹ bez szansy na rzut obronny.~
+Czar przywo³uje potê¿nego geniusza, który utrzymuje bezpoœredni kontakt z bóstwami. Dokona on na rzecz rzucaj¹cego czynu, który oka¿e siê brzemienny w skutki dla „s³abych ras” zamieszkuj¹cych te krainy. D¿inn zapyta, kogo ma wyeliminowaæ, a rzucaj¹cy wska¿e mu dowoln¹ istotê nale¿¹c¹ do którejœ ze s³abych ras obecn¹ w zasiêgu wzroku. Po szybkim rzuceniu czaru czyn siê dokona, a ca³a rasa zginie nag³¹ œmierci¹ bez szansy na rzut obronny.~
 @20526  = ~Animacja golema~
 @20527  = ~Animacja golema
 (Nekromancja)
@@ -1942,7 +1942,7 @@ Czas rzucania: 9
 Obszar dzia³ania: rzucaj¹cy czar
 Rzut obronny: brak
 
-Po rzuceniu tego zaklêcia, kap³ana otacza wir ochronnej energii, który blokuje b¹dŸ odbija ataki. Daje to kap³anowi premiê +6 do Klasy Pancerza i 50% odpornoœci na wiêkszoœæ rodzajów ataku: elektrycznoœæ, ogieñ, zimno itd. Zapewnia tak¿e +2 do wszystkich rzutów obronnych i niewra¿liwoœæ na wszelkie ataki z dystansu. Maksymalny czas dzia³ania to dwanaœcie rund.~
+Po rzuceniu tego zaklêcia, czaruj¹cy zostaje otoczony ochronnym wirem energii, który blokuje lub odbija wiele ataków. Zapewnia to kap³anowi premiê +6 do Klasy Pancerza oraz 50% odpornoœci na elektrycznoœæ, ogieñ, zimno i kwas. Zapewnia tak¿e +2 do wszystkich rzutów obronnych i niewra¿liwoœæ na wszelkie ataki z dystansu. Maksymalny czas dzia³ania to dwanaœcie rund.~
 @20733  = ~Symbol: wygnanie~
 @20734  = ~Symbol: wygnanie
 (Sprowadzanie/Przywo³ywanie)
@@ -3670,11 +3670,11 @@ Takie by³y koleje powstania Najmroczniejszego dnia, najwiêkszej i najpierwszej m
 ROZDZIA£ III
 (o polskiej lokalizacji)
 
-A w naszej krainie od zarania podejmowano próby, by cuda te w jêzyku naszym wspó³czesnym gwoli radoœci, a potomnym - zachowania przedstawiæ, jednak spe³za³y na niczym... Strzeg³ jej bowiem potwór imieniem English... "Wielu dzielnych rycerzy próbowa³o uwolniæ nieszczêsn¹ z samotni... jednak ¿adnemu siê nie powiod³o"...
+A w naszej krainie od zarania podejmowano próby, by cuda te w jêzyku naszym przedstawiæ: wspó³czesnym gwoli radoœci, a potomnym - zachowania, jednak na niczym spe³za³y... Strzeg³ jej bowiem potwór imieniem English... "Wielu dzielnych rycerzy próbowa³o uwolniæ nieszczêsn¹ z samotni... jednak ¿adnemu siê nie powiod³o"...
 
-Wreszcie Mistrz Gigantus, Najpierwszy, dzia³aj¹cy wczeœniej w Tawernie Bibliotekarzy, otrzymawszy zgodê od w³odarzy Klanu Dzieci Bhaala, og³osi³ nabór, wici zosta³y rozes³ane na cztery strony. Wreszcie zebrali sie œmia³kowie, trzynaœcioro by³o ich z Klanu, i tylu¿ z Tawerny Bibliotekarzy. Treœæ (jeszcze nie-WeiDu, wiêc bez podzia³u na pliki *.tra itp.) podzielono na paczki i rozes³ano. Wiele miesiêcy up³ynê³o œmia³kom, straty by³y znaczne. Pewnego zaœ dnia zabrak³o Mistrza Gigantusa i zabrak³o p³omienia. Nasta³a Ciemnoœæ...
+A¿ w koñcu Mistrz Gigantus, Najpierwszy, za zgod¹ Wodzów Klanu i Bibliotekarzy, og³osi³ nabór, wici zosta³y rozes³ane na cztery strony. Zebrali sie wreszcie œmia³kowie, trzynaœcioro ich by³o z Klanu Dzieci Bhaala, i tylu¿ z Tawerny Bibliotekarzy. Treœæ (jeszcze nie-WeiDu, wiêc bez podzia³u na pliki *.tra itp.) podzielono na paczki i rozes³ano. Wiele miesiêcy up³ynê³o dzielnym, straty by³y znaczne. Pewnego zaœ dnia zabrak³o Mistrza Gigantusa i zgas³ p³omieñ. Nasta³a Ciemnoœæ...
 
-Gdy wydawa³o siê, ¿e kolejna próba wniwecz sie obróci, przyby³ namaszczony przez Najpierwszego, Kontynuator, Mistrz ThugPoet, Najodwa¿niejszy, który b³yskawicznie ukoñczy³ dzie³o. "Radoœci nie by³o koñca", gratulacje p³ynê³y zewsz¹d...
+Gdy wydawa³o siê, ¿e kolejna próba wniwecz sie obróci, przyby³ namaszczony przez Najpierwszego, Kontynuator, Mistrz ThugPoet, Najenergiczniejszy, który b³yskawicznie ukoñczy³ dzie³o. "Radoœci nie by³o koñca", gratulacje p³ynê³y zewsz¹d...
 
 Jeszcze wiêksza radoœæ nasta³a, gdy w rok póŸniej Mistrz Cuttooth, Najwytrwalszy, po miesi¹cach benedyktyñskiej pracy przedstawi³ wersjê dostosowan¹ do najnowszych trendów (WeiDU)...
 
@@ -5409,7 +5409,7 @@ Wymagania:
 – Si³a: 5
 
 Waga: 4~
-@21351  = ~Ciche ostrze~
+@21351  = ~Bezg³oœna klinga~
 @21352  = ~Sztylet ten to artefakt zabrany z pokonanej gildii Calimportu. Stanowi jeden z wielu skarbów zdobytych poœród zgliszcz i popio³ów, a jego w³aœciwoœci bardzo istotnie wp³ywaj¹ na umiejêtnoœci zabójcy. Sztylet – na ¿yczenie – mo¿e wprowadziæ swego w³aœciciela w œmiertelny tryb krycia siê przed wzrokiem postronnych. To doskona³a broñ dla zabójcy, a zarazem koszmar dla ofiary.
 
 PARAMETRY:
@@ -7671,7 +7671,7 @@ Waga: 0
 ~
 @21718  = ~kosiarz olbrzymów~
 @217180 = ~Kosiarz olbrzymów~
-@21719  = ~KOSIARZ OLBRZYMÓW: Zabójcy olbrzymów przysiêgaj¹, ¿e oczyszcz¹ Faerun ze swych œmiertelnych wrogów, ca³ego rodzaju olbrzymów (wliczaj¹c w to: ogry, golemy, ifryty, d¿iny, ¿ywio³aki ognia i powietrza). S¹ bardzo tajemnicz¹ kast¹ i niewiele wiadomo o przyczynach nienawiœci, jak¹ czuj¹ w stosunku do tego gatunku. Jednak¿e wiadomo, ¿e ci posêpni wojownicy ¿yj¹ gniewem i pragnieniem zemsty. S¹ oni ch³odni i srodzy w obejœciu, lecz ich mistrzostwo w walce z olbrzymami nie ma sobie równych w ca³ym Faerunie. Przez lata wypracowali oni specyficzny, charakterystyczny dla nich styl walki. Nauczeni doœwiadczeniem, ¿e stawianie czo³a olbrzymom z mieczem i tarcz¹ nie przynosi wiêkszych efektów, porzucili taki styl walki; równie¿ bronie dystansowe uznaj¹ za ma³o skuteczne w walce, i rzadko po nie siêgaj¹. Zabójcy olbrzymów nie musz¹ cechowaæ siê du¿¹ szybkoœci¹, ani dobrym refleksem, bowiem przeciwnicy, z którymi maj¹ do czynienia, s¹ o wiele od nich wolniejsi. Ich wszechogarniaj¹ca nienawiœæ do olbrzymów i bezgraniczne oddanie profesji pozwala tym nie znaj¹cym strachu wojownikom osi¹gaæ, podobny berserkerowi, stan ducha w którym siej¹ strach i zniszczenie wokó³.
+@21719  = ~KOSIARZ OLBRZYMÓW: Zabójcy olbrzymów przysiêgaj¹, ¿e oczyszcz¹ Faerun ze swych œmiertelnych wrogów, ca³ego rodzaju olbrzymów (wliczaj¹c w to: ogry, golemy, ifryty, d¿inny, ¿ywio³aki ognia i powietrza). S¹ bardzo tajemnicz¹ kast¹ i niewiele wiadomo o przyczynach nienawiœci, jak¹ czuj¹ w stosunku do tego gatunku. Jednak¿e wiadomo, ¿e ci posêpni wojownicy ¿yj¹ gniewem i pragnieniem zemsty. S¹ oni ch³odni i srodzy w obejœciu, lecz ich mistrzostwo w walce z olbrzymami nie ma sobie równych w ca³ym Faerunie. Przez lata wypracowali oni specyficzny, charakterystyczny dla nich styl walki. Nauczeni doœwiadczeniem, ¿e stawianie czo³a olbrzymom z mieczem i tarcz¹ nie przynosi wiêkszych efektów, porzucili taki styl walki; równie¿ bronie dystansowe uznaj¹ za ma³o skuteczne w walce, i rzadko po nie siêgaj¹. Zabójcy olbrzymów nie musz¹ cechowaæ siê du¿¹ szybkoœci¹, ani dobrym refleksem, bowiem przeciwnicy, z którymi maj¹ do czynienia, s¹ o wiele od nich wolniejsi. Ich wszechogarniaj¹ca nienawiœæ do olbrzymów i bezgraniczne oddanie profesji pozwala tym nie znaj¹cym strachu wojownikom osi¹gaæ, podobny berserkerowi, stan ducha w którym siej¹ strach i zniszczenie wokó³.
 
 Zalety:
 – Otrzymuje premiê +5 do obra¿eñ i +4 do trafienia w walce z olbrzymami.
