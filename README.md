@@ -9,7 +9,7 @@ _ONSETO: 53/53  files,  76/76  kB DONE
 
 _PURSKAL:   38/38  files,  29/29  kB DONE
 
-_RIATAV:  167/167 files,  167/167 kB DONE
+_RIAT:  167/167 files,  167/167 kB DONE
 
 _ROBILRD:   8/8   files,   13/13  kB DONE
 
