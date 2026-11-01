@@ -1,4 +1,4 @@
-# The-Darkest-Day-TDDz-PL
+# The-Darkest-Day-TDDz-PL-old
 [under development] Polish translation for TDDz mod, partially revised
 
 components:
